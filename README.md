@@ -3,9 +3,11 @@ Simple Todo app with Django Rest Framework
 
 
 Installation:
+
 $ virtualenv venv
 
 $ cd venv
+
 $ source Scripts/activate
 
 $ pip install django
@@ -24,6 +26,7 @@ $ python manage.py createsuperuser
 
 
 Install Django Rest Framework:
+
 cd venv
 
 $ pip install djangorestframework
