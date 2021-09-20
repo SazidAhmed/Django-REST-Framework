@@ -4,6 +4,8 @@ Simple Todo app with Django Rest Framework
 
 Installation:
 
+$ pip install virtualenv
+
 $ virtualenv venv
 
 $ cd venv
